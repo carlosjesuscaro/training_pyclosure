@@ -1,3 +1,5 @@
+
+
 # Example 1
 def counter():
     count = 0
@@ -12,7 +14,7 @@ def counter():
 
 
 # # Create two separate counter instances
-# print(id(counter))
+# print(id(counter)) 
 counter1 = counter()
 # print(id(counter1))
 counter2 = counter()
